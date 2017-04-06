@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IntroApp</string>
+    <string name="send_button">Send</string>
+    <string name="hello_text">Hello World!</string>
+</resources>
